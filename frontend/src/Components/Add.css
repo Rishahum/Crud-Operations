@@ -1,0 +1,24 @@
+
+.button-update, .button-cancel {
+    border-radius: 4px;
+    background-color: #6465cc;
+    padding: 15px;
+    padding-bottom: 16px; 
+    border: none;
+    width: 5rem;
+    gap: 2rem;
+    color: whitesmoke;
+  }
+  .button-cancel{
+    background-color: #fd0000;
+  }
+  .add-upper{
+    margin-bottom: 5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  .add-lower{
+    display: flex;
+    gap: 10rem;
+  }
